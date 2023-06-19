@@ -24,5 +24,7 @@ body {
 }
 
 .cardFace {
-  font-size: 120px;
+  font-size: 140px;
+  margin-top: 25px;
+  margin-left: 140px;
 }
